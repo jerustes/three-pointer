@@ -11,7 +11,7 @@ public class Status {
 		this.round = round;
 	}
 
-	public String getPoints() {
+	public int getPoints() {
 		return points;
 	}
 
