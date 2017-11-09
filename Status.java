@@ -15,7 +15,7 @@ public class Status {
 		return points;
 	}
 
-	public void setPints(int points) {
+	public void setPoints(int points) {
 		this.points = points;
 	}
 
